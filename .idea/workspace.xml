@@ -19,12 +19,49 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6199714-44bf-4653-8376-f453549acee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Origin-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Origin-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="f6199714-44bf-4653-8376-f453549acee2" name="Changes" comment="doc">
+      <change beforePath="$PROJECT_DIR$/.idea/Origin-.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/config/test.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/e2e/custom-assertions/elementCount.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/e2e/nightwatch.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/e2e/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/e2e/specs/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/unit/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/unit/jest.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/unit/setup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Origin-/test/unit/specs/HelloWorld.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Origin-/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +75,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="Starkmeng" />
+  </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="C:\Users\User\AppData\Local\GitHubDesktop\GitHubDesktop.exe" />
+    <option name="PATH_TO_GIT" value="C:\Users\Administrator\AppData\Local\GitHubDesktop\app-2.9.6\resources\app\git\cmd\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22B5jVcoJVgPYtvwgec1HK21aoj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,7 +136,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
@@ -114,11 +155,12 @@
       <workItem from="1639460176500" duration="2709000" />
       <workItem from="1639463104683" duration="1190000" />
       <workItem from="1639464429711" duration="2900000" />
+      <workItem from="1639491738087" duration="1095000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -177,29 +219,6 @@
         <entry key="0e358a10-5858-4161-890f-6094c2632cbf" value="TOOL_WINDOW" />
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="440" y="99" key="#Project_Structure" timestamp="1639372061813">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1639372061813" />
-    <state x="730" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639459783077">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="730" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1639459783077" />
-    <state x="711" y="209" key="FileChooserDialogImpl" timestamp="1639467877578">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="711" y="209" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1639467877578" />
-    <state x="780" y="227" key="RollbackChangesDialog" timestamp="1639460005660">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="780" y="227" key="RollbackChangesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1639460005660" />
-    <state x="440" y="99" key="SettingsEditor" timestamp="1639467896943">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1639467896943" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
